@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Node / frontend folders (if present)
+node_modules/
+dist/
+dist-ssr/
+
+# Local config files
+*.local
+
+# Editor directories
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
